@@ -4,6 +4,7 @@ from pathlib import Path
 HANDLES = [
     "almost-perfect-lark-baby-carrier",
     "almost-perfect-sprout-newborn-carrier",
+    "almost-perfect-meh-dai",
 ]
 NTFY_TOPIC = os.environ["NTFY_TOPIC"]
 STATE = Path("state.json")
